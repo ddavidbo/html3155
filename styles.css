@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+    font-family: Arial, sans-serif;
+  }
+
+  #main-title {
+    text-align: center;
+    font-size: 36px;
+    margin: 12px 0;
+  }
+
+  .content {
+    margin-bottom: 12px;
+    text-align: justify;
+  }
